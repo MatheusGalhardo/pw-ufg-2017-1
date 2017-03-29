@@ -6,7 +6,7 @@ AULA 28.03 - Exercício de Bibliografia Inicial.
 
 Para fazer clone.
 
-git clone https://github.com/walison-moreira-ufg/pw-ufg-2017-1
+git clone https://github.com/MatheusGalhardo/pw-ufg-2017-1
 
 Para rodar com o Tomcat.
 
